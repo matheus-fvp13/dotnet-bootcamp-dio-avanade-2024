@@ -1,0 +1,23 @@
+# Arquivos e diretórios específicos do Visual Studio
+.vs/
+/bin/
+/obj/
+
+# Arquivos temporários
+*.user
+*.vscode
+*.suo
+*.cache
+*.bak
+*.log
+
+# Pacotes NuGet
+/packages/
+
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+
+# Arquivos de publicação
+*.publish.xml
